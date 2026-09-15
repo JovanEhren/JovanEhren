@@ -10,7 +10,7 @@ I build small, focused tools that fix one annoying problem well — a PDF utilit
 
 ### I've worked with
 
-<img src="https://skillicons.dev/icons?i=ts,python,kotlin,js,html,css" />
+<img src="https://skillicons.dev/icons?i=ts,python,kotlin,js,html,css,linux,github" />
 
 ### Still learning
 
