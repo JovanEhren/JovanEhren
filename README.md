@@ -37,31 +37,16 @@ there's a decent chance I built it.
 
 ### 📌 things worth a look
 
-<div align="center">
-
-<a href="https://github.com/JovanEhren/IHatePDF">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JovanEhren&repo=IHatePDF&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JovanEhren/ImgGone">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JovanEhren&repo=ImgGone&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JovanEhren/Fuwa-Hide">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JovanEhren&repo=Fuwa-Hide&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/JovanEhren/KapitaSelekta">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JovanEhren&repo=KapitaSelekta&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+- 🧾 [IHatePDF](https://github.com/JovanEhren/IHatePDF) — TypeScript
+- 🖼️ [ImgGone](https://github.com/JovanEhren/ImgGone) — Python
+- 📱 [Fuwa-Hide](https://github.com/JovanEhren/Fuwa-Hide) — Kotlin
+- 🕸️ [KapitaSelekta](https://github.com/JovanEhren/KapitaSelekta) — Python
 
 <br/>
 
 ### 📊 the numbers
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JovanEhren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JovanEhren&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=JovanEhren&theme=tokyonight&hide_border=true" height="165"/>
 
