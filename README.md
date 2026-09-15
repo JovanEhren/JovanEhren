@@ -1,3 +1,5 @@
+<img src="assets/koyuki.gif" width="180" align="right"/>
+
 # Jovan
 
 ### Software Developer
