@@ -1,8 +1,6 @@
-<img src="assets/koyuki.gif" width="160" align="right"/>
+# Jovan
 
-### Jovan
-
-**Software Developer**
+### Software Developer
 
 [![GitHub Badge](https://img.shields.io/badge/-JovanEhren-181717?style=flat-square&logo=Github&logoColor=fff&link=https://github.com/JovanEhren)](https://github.com/JovanEhren)
 
