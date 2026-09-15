@@ -12,4 +12,4 @@ I build small, focused tools that fix  annoying problem i ecountered — a PDF u
 <img src="https://skillicons.dev/icons?i=ts,python,kotlin,js,html,css,github" />
 
 ### Still learning
-<img src="https://skillicons.dev/icons?i=docker,nodejs,vite,linux" />
+<img src="https://skillicons.dev/icons?i=docker,nodejs,vite,linux,php,laravel" />
